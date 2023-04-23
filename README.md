@@ -1,13 +1,15 @@
-### Hi there 👋 I'm Sindhu 
-# I am a B.Tech student and a tech enthusiast! 
+### Hi there 👋 I'm Sindhu C 
+# I am a B.Tech student and a Tech Enthusiast! 
 <img align="right" src="https://user-images.githubusercontent.com/62502140/118968813-ffe83c00-b989-11eb-8bcd-45f41037092b.png" alt="ria-monga" height="400" style="max-width: 100%;">
 
 # 💫 About Me:
-🔭 I’m currently studying at Gitam School of Technology <br>👯 I’m looking to collaborate on projects <br>🤝 I’m looking for help with JavaScript <br><br><br>
+🔭 I’m currently studying at Gitam School of Technology <br>👯 I’m looking to collaborate on projects <br>🤝 I’m looking for help with JavaScript <br> ⚡ Fun fact: I use tabs over spaces <br> 📫 How to reach me csindhu533@gmail.com <br><br><br><br>
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sindhu-c1909) 
+
+
 
 # 💻 Tech Stack:
 <div align="left">  
